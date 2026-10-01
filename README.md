@@ -21,7 +21,7 @@ Unlike basic AI-generated scripts, this plugin was built by enforcing architectu
 
 *(Below is the live execution preview within the local environment)*
 
-![WordPress AI Plugin Preview](wordpress-ai-plugin-dashboard.png)
+![WordPress AI Plugin Preview](Wordpress-ai-plugin-dashboard.png)
 
 ---
 
